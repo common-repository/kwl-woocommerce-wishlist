@@ -1,0 +1,21 @@
+a.kwl-add{
+	display: block;
+	clear: both;
+    padding: 10px 0;
+    border: 1px solid black;
+    text-decoration: none;
+    text-align: center;
+    margin: 10px auto;
+}
+
+a.kwl-add:hover{
+	opacity: 0.6;
+}
+
+.kwl-hideme{
+	display: none;
+}
+
+.ui-dialog.kwl-close .ui-dialog-titlebar-close {
+  display: none;
+}

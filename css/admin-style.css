@@ -1,0 +1,12 @@
+.kwl-table{
+	width: 100%;
+}
+
+.kwl-table h2{
+	text-align: left;
+	font-size: 20px;
+}
+
+input.kwl-radio{
+	margin: 5px 10px 5px 2px;
+}
